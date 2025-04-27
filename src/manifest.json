@@ -1,0 +1,22 @@
+{
+    "name": "UMW Modul 2",
+    "short_name": "UMW m2e",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./assets/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#9E9E9E",
+    "background_color": "#9E9E9E",
+    "display": "standalone",
+    "orientation": "landscape",
+    "description": "UMW Modul2 - Angular"
+}

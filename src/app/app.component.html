@@ -34,8 +34,7 @@
 
 
 
-<main class="main">
-  <div class="content">
+
 
     <div class="snap-container">
 
@@ -70,7 +69,7 @@
           <h3>UMW Modul 2</h3>
         </header>
       </div>
-      @for (item of apiData; track item.id) {
+      @for (item of apiData; track item.clientID) {
       <div class="snap-item">
         <h2>Client {{ item.clientID }}</h2>
         <div class="clientStatic">
@@ -96,7 +95,7 @@
       }
     </div>
 
-  </div>
-</main>
+
+
 
 <router-outlet />

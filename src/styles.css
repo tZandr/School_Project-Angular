@@ -27,6 +27,7 @@ h3 {
 
 h2 {
     font-size: 1.65rem;
+    margin-bottom: 20px;
 }
 
 .snap-container {
@@ -79,6 +80,7 @@ form {
     flex-direction: column;
     align-items: center;
     border: none;
+    margin-top: 10px;
 }
 
 #msg {
@@ -119,11 +121,9 @@ header {
 
 main {
     width: 100%;
-    min-height: 100%;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: 1rem;
     box-sizing: inherit;
     position: relative;
 }

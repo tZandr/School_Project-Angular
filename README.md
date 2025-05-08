@@ -1,3 +1,13 @@
+Purpose: 
+- Introduction to Angular.
+- Create and install a service worker.
+- Cache the entire application, static and dynamic(including API) so that it works offline.
+- Create a add a manifest.json so it's installable on ios and android devices.
+  
+- Bonus: I decided to play around with snap-scrolling in css to learn it. 
+
+---
+
 # AngularHttp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.8.
